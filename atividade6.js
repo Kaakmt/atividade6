@@ -37,5 +37,6 @@ const aluno2 = new Estudante("estudante2","estudante2@fatec.sp.gov.br",987654321
 
 aluno1.estprimeiradisciplina();
 aluno1.estultimadisciplina();
+
 aluno2.estprimeiradisciplina();
 aluno2.estultimadisciplina();
